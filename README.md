@@ -6,12 +6,6 @@ This repository documents the development of a Custom Question Answering bot tra
 
 The project focuses on building a conversational bot capable of addressing common inquiries regarding Doordash services, leveraging the FAQs available on the [Doordash website](https://dasher.doordash.com/en-au/faq). By harnessing Azure Cognitive Service Language Studio, the bot can understand user queries and provide accurate responses based on the information gathered from the Doordash FAQs.
 
-## Dependencies
-
-- Azure Cognitive Service Language Studio
-- Microsoft Teams (for integration)
-- Node.js SDK (for bot development)
-
 ## Technology Stack
 
 - **Azure Cognitive Service Language Studio:** Employed for natural language understanding and processing.
